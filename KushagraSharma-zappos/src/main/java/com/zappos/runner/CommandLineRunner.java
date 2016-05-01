@@ -1,7 +1,4 @@
-package com.zappos.runner;/*
- *  CONFIDENTIAL AND PROPRIETARY INFORMATION. Copyright Sunrun, Inc. 2013.  All Rights Reserved. This file may not be
- *
- */
+package com.zappos.runner;
 
 import com.zappos.business.ZapposClient;
 
